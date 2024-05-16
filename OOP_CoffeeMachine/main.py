@@ -5,9 +5,6 @@ from money_machine import MoneyMachine
 """
 Coffee Machine - Object Oriented Programming Version
 
-Pretend we are using packages and ain't allowed to touch other file apart from the main
-Use the PDF as your guide
-
 1. Print reports
 2. Check resources sufficient
 3. Process coins sufficient
